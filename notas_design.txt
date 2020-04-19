@@ -1,0 +1,30 @@
+entender necesidades. Somos parte de los usuarios. 
+Observar, Reflexionar, Crear. 
+Romper la barrera de la empatía. Si no eres un piloto, nunca sabrás lo que se siente aterrizar un avión. 
+
+Cantidad-Calidad
+Primeros pasos: Cantidad. Luego ya se centra en calidad, pero en un principio se centra en cantidad. 
+Mostrar, no decir. 
+
+Conocer a los Usuarios: 
+Mapas de empatía. Estos basados en entrevistas, que a su vez están basadas en nuestros módulos de proyecto. 
+
+Hay plataforma virtual para mapas de empatía. 
+Entonces... es un mapa de empatía entre todos por cada usuario?
+Mapa del Escenario presente: pasos del usuario para completar una tarea. 
+Esta mapa es para identificar puntos de ineficiencia (hace), confusión (piensa), conflicto(siente) y extra pasos.
+
+ideas: centradas en usuario
+características: basadas en tecnología. 
+Es casi como. 
+
+Priorización:
+No evaluar y crear ideas al mismo tiempo. 
+Primero creamos las ideas, después de esto se evaluan. 
+Estos votos se basan en impacto y viabilidad. Rojo es alto impacto, verde es facilidad de implementación.
+
+Tomar en cuenta carrera, año y género. Tener todos la misma muestra. 
+Estar preparados para las entrevistas. Un usuario a la vez. Entre 5-8 preguntas. Grabar las entrevistas. 
+
+Tener muestras de 25 pipol. 
+Estas personas son diferentes a los de las pruebas de usabilidad. 
